@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react-basics",
+  "version": "1.0.0",
+  "description": "This is Namaste React App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshayakumar7/namaste-react-course-code.git"
+  },
+  "keywords": [
+    "React",
+    "learn",
+    "react",
+    "Akshay"
+  ],
+  "author": "Akshayakumar S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshayakumar7/namaste-react-course-code/issues"
+  },
+  "homepage": "https://github.com/Akshayakumar7/namaste-react-course-code#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
